@@ -16,6 +16,7 @@ Desktop:
 Mobile:
 
 ![image](https://github.com/y6602016/EasyBank-Frontend-Mentor-Challenge-/blob/main/final/Mobile.png)
+
 ![image](https://github.com/y6602016/EasyBank-Frontend-Mentor-Challenge-/blob/main/final/Mobile_nav.gif)
 
 -----------------
